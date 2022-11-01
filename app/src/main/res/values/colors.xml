@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="iconcolor">#FF00FF</color>
+
+    <color name="ytwhite">#FFFFFF</color>
+    <color name="ytblack">#282828</color>
+    <color name="ytred">#FF0000</color>
+
+</resources>

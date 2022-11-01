@@ -1,0 +1,18 @@
+TODO:
+- use coroutines
+- use compose navigation
+- check if there's code that gets executed on every recomposition (-> use remember)
+- improve MediaStore updates (https://developer.android.com/training/data-storage/shared/media#check-for-updates)
+- set pending flag during download (https://developer.android.com/training/data-storage/shared/media#toggle-pending-status)
+- set theme colors
+- WebView override WebViewClient onReceivedError (disabled wifi for example)
+- check permission only when needed (not at app start)
+- previously downloaded files not showing after app reinstall (api 26), somehow doesn't affect all files
+- old playlists not showing after app reinstall api 31/32
+- openFileOutputStream sometimes (only longer songs?) FileNotFoundException on api 22
+
+
+
+https://developer.android.com/jetpack/androidx/releases/compose
+https://developer.android.com/jetpack/androidx/releases/compose-material3
+https://developer.android.com/jetpack/androidx/releases/media3

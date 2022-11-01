@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Main.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/ytblack</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_foreground</item>
+        <item name="postSplashScreenTheme">@style/Main.App</item>
+    </style>
+
+    <style name="Main.App" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowLayoutInDisplayCutoutMode" tools:targetApi="o_mr1">default</item>
+    </style>
+
+</resources>
