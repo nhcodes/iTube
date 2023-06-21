@@ -5,7 +5,7 @@ plugins {
 
 android {
 
-    namespace "dev.nh7.itube"
+    namespace "codes.nh.itube"
 
     compileSdk 33
 

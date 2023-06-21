@@ -1,7 +1,7 @@
 <resources>
 
     <string name="app_name">iTube</string>
-    <string name="github_account">nh7dev</string>
+    <string name="github_account">nhcodes</string>
 
     <string name="screen_search">Search</string>
     <string name="screen_library">Library</string>

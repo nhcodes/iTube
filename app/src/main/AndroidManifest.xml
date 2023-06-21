@@ -36,7 +36,7 @@
         </activity>
 
         <service
-            android:name="dev.nh7.itube.backend.player.PlayerService"
+            android:name=".backend.player.PlayerService"
             android:exported="true"
             android:foregroundServiceType="mediaPlayback">
             <intent-filter>

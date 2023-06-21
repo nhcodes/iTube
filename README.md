@@ -2,7 +2,7 @@
 
 ### YouTube Downloader for Android
 
-#### [\[Download APK\]](https://github.com/nh7dev/iTube/releases)
+#### [\[Download APK\]](https://github.com/nhcodes/iTube/releases)
 
 ---
 
