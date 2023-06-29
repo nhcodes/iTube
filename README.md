@@ -25,4 +25,4 @@
 
 #### Preview
 
-![App Preview GIF](preview.gif)
+https://github.com/nhcodes/iTube/assets/120429276/23f04aca-c86b-422d-80c0-a806eb4f7e9b
